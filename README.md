@@ -2,8 +2,8 @@
 
 <p align="left">
 I'm a software developer with a degree in Computer Information Systems. I enjoy building full-stack apps using tools like React, React Native, and Node.js. I like writing clean, efficient code and turning ideas into real products.
-
-I’m always learning new tech, improving my skills, and building projects that are fun and useful. 
+  
+I’m always learning new tech, improving my skills, and building projects to gain hands-on experience
 </p>
 
 <h2 align="left">Tech Stack:</h2>
