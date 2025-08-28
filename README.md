@@ -42,21 +42,21 @@ I’m always learning new tech, improving my skills, and building projects to ga
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </p>
 
-
+<!--
 <h2 align="Left">GitHub Stats:</h2>
 
 <p align="left">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdulwahab22&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
 </p>
 
 <p align="left">
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdulwahab22&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Abdulwahab22&theme=radical" alt="GitHub Streak Stats" /> 
 </p>
+
+-->
 
 
