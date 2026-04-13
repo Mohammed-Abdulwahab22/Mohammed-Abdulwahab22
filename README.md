@@ -1,8 +1,7 @@
 <h1 align="left">About Me:</h1>
 
 <p align="left">
-I'm a software developer with a degree in Computer Information Systems. I enjoy building full-stack apps using tools like React, React Native, and Node.js. I like writing clean, efficient code and turning ideas into real products.
-  
+I'm a software engineer with a bachelor's degree in Computer Information Systems from Jordan university of science and technology. 
 I’m always learning new tech, improving my skills, and building projects to gain hands-on experience
 </p>
 
